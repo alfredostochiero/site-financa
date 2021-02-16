@@ -6,3 +6,5 @@ FrameWorks :
  
 Bootstrap
 Django 
+
+Deploy com Heroku
